@@ -1,11 +1,11 @@
-<!-- # 50 JavaScript Projects in 50 Days
+# 50 JavaScript Projects in 50 Days
 
 This repository contains 50 JavaScript projects to improve your skills by building real-world applications. Each project focuses on different JavaScript concepts, including DOM manipulation, events, local storage, API fetching, and more.
 
 ## Projects List
 
 1. **Counter App** – A simple counter that increments, decrements, and resets.
-   - [Live Demo](#)
+   - [Live Demo](https://digital-clock-xi-lemon.vercel.app/)
 2. **To-Do List** – A to-do app with local storage.
    - [Live Demo](#)
 3. **Calculator** – A basic calculator with arithmetic operations.
@@ -120,4 +120,4 @@ This repository contains 50 JavaScript projects to improve your skills by buildi
 Feel free to fork this repository and contribute improvements!
 
 ## License
-This project is licensed under the MIT License. -->
+This project is licensed under the MIT License.
