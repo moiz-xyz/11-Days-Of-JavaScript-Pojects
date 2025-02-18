@@ -7,7 +7,7 @@ This repository contains 50 JavaScript projects to improve your skills by buildi
 1. **Counter App** – A simple counter that increments, decrements, and resets.
    - [Live Demo](https://digital-clock-xi-lemon.vercel.app/)
 2. **To-Do List** – A to-do app with local storage.
-   - [Live Demo](#)
+   - [Live Demo](to-do-app-blue-nine.vercel.app)
 3. **Calculator** – A basic calculator with arithmetic operations.
    - [Live Demo](#)
 4. **Weather App** – Fetch weather data from an API.
