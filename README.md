@@ -11,7 +11,7 @@ This repository contains 50 JavaScript projects to improve your skills by buildi
 3. **Weather App** – Fetch weather data from an API.
    - [Live Demo](https://weather-app-chi-sooty.vercel.app/)
 4. **Calculator** – A basic calculator with arithmetic operations.
-   - [Live Demo]()
+   - [Live Demo](js-calculator-chi-six.vercel.app)
 5. **Counter App** – Displays real-time digital clock.
    - [Live Demo](#)
 6. **Random Quote Generator** – Generates random quotes on button click.
