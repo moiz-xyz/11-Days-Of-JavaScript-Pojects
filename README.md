@@ -4,16 +4,16 @@ This repository contains 50 JavaScript projects to improve your skills by buildi
 
 ## Projects List
 
-1. **Digital Clock** – A simple counter that increments, decrements, and resets.
+5. **Counter App** – Displays real-time digital clock.
    - [Live Demo](https://digital-clock-xi-lemon.vercel.app/)
 2. **To-Do List** – A to-do app.
    - [Live Demo](to-do-app-blue-nine.vercel.app)
 3. **Weather App** – Fetch weather data from an API.
    - [Live Demo](https://weather-app-chi-sooty.vercel.app/)
 4. **Calculator** – A basic calculator with arithmetic operations.
-   - [Live Demo]()
-5. **Counter App** – Displays real-time digital clock.
-   - [Live Demo](#)
+   - [Live Demo](https://js-calculator-chi-six.vercel.app/)
+1. **Digital Clock** – A simple counter that increments, decrements, and resets.
+   - [Live Demo](counter-app-ashy-three.vercel.app)
 6. **Random Quote Generator** – Generates random quotes on button click.
    - [Live Demo](#)
 7. **Background Color Changer** – Changes background color on button click.
