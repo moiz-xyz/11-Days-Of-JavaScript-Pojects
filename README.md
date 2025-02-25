@@ -4,7 +4,7 @@ This repository contains 50 JavaScript projects to improve your skills by buildi
 
 ## Projects List
 
-5. **Counter App** – Displays real-time digital clock.
+1. **Counter App** – Displays real-time digital clock.
    - [Live Demo](https://digital-clock-xi-lemon.vercel.app/)
 2. **To-Do List** – A to-do app.
    - [Live Demo](to-do-app-blue-nine.vercel.app)
